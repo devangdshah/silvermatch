@@ -31,7 +31,7 @@ export const AboutUs: React.FC = () => {
             {t('about.vision.title')}
           </h2>
           <p className="max-w-xl mt-5 mx-auto text-xl text-gray-500">
-            [Placeholder: We believe that finding the right caregiver shouldn't be a transaction, but a relationship built on trust and compatibility.]
+            
           </p>
         </div>
         
@@ -39,19 +39,19 @@ export const AboutUs: React.FC = () => {
             <div className="space-y-4 p-6 bg-gray-50 rounded-xl">
                 <h3 className="text-2xl font-bold text-gray-900">{t('about.mission')}</h3>
                 <p className="text-lg text-gray-500">
-                    [Placeholder: To revolutionize senior care by prioritizing personality matches alongside medical needs. We strive to reduce caregiver turnover and increase senior happiness.]
+                    
                 </p>
             </div>
             <div className="space-y-4 p-6 bg-gray-50 rounded-xl">
                 <h3 className="text-2xl font-bold text-gray-900">{t('about.story')}</h3>
                 <p className="text-lg text-gray-500">
-                    [Placeholder: Founded in 2024, SilverMatch began when our founders struggled to find reliable care for their own parents. They realized the system was broken and decided to fix it.]
+                    
                 </p>
             </div>
             <div className="space-y-4 p-6 bg-gray-50 rounded-xl">
                 <h3 className="text-2xl font-bold text-gray-900">{t('about.values')}</h3>
                 <p className="text-lg text-gray-500">
-                    [Placeholder: Integrity, Compassion, Transparency, and Excellence. We hold our caregivers and our team to the highest standards.]
+                    
                 </p>
             </div>
         </div>

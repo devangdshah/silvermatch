@@ -31,7 +31,7 @@ export const ContactUs: React.FC = () => {
                 </div>
                 <div className="ml-4 text-base text-gray-500">
                   <p className="font-medium text-gray-900">{t('contact.phone')}</p>
-                  <p className="mt-1">[Placeholder: +1 (555) 123-4567]</p>
+                  <p className="mt-1"></p>
                   <p className="text-sm text-gray-400">Mon-Fri 9am-6pm EST</p>
                 </div>
               </div>
@@ -42,7 +42,7 @@ export const ContactUs: React.FC = () => {
                 </div>
                 <div className="ml-4 text-base text-gray-500">
                   <p className="font-medium text-gray-900">{t('cg.label.email')}</p>
-                  <p className="mt-1">[Placeholder: support@silvermatch.com]</p>
+                  <p className="mt-1"></p>
                   <p className="text-sm text-gray-400">We typically reply within 24 hours.</p>
                 </div>
               </div>
@@ -54,8 +54,7 @@ export const ContactUs: React.FC = () => {
                 <div className="ml-4 text-base text-gray-500">
                   <p className="font-medium text-gray-900">{t('contact.office')}</p>
                   <p className="mt-1">
-                    [Placeholder: 123 Caregiver Lane, Suite 100]<br />
-                    [Placeholder: San Francisco, CA 94105]
+                    
                   </p>
                 </div>
               </div>

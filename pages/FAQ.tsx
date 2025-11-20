@@ -22,15 +22,15 @@ export const FAQ: React.FC = () => {
                 <div className="border-t border-gray-200 px-4 py-5 sm:p-6 space-y-6">
                     <div>
                         <h4 className="text-base font-bold text-gray-900">How does the matching process work?</h4>
-                        <p className="mt-2 text-gray-500">[Placeholder: We use advanced AI to analyze your senior profile—including medical needs, personality, and interests—and compare it with our caregiver database to suggest the most compatible matches.]</p>
+                        <p className="mt-2 text-gray-500"></p>
                     </div>
                     <div>
                         <h4 className="text-base font-bold text-gray-900">How do you verify caregivers?</h4>
-                        <p className="mt-2 text-gray-500">[Placeholder: Safety is our priority. All caregivers undergo background checks, reference verification, and license validation before their profiles are made active.]</p>
+                        <p className="mt-2 text-gray-500"></p>
                     </div>
                      <div>
                         <h4 className="text-base font-bold text-gray-900">What happens if the match doesn't work out?</h4>
-                        <p className="mt-2 text-gray-500">[Placeholder: We offer a satisfaction guarantee. If you aren't happy with a caregiver, we will help you find a replacement immediately at no extra cost.]</p>
+                        <p className="mt-2 text-gray-500"></p>
                     </div>
                 </div>
             </div>
@@ -43,15 +43,15 @@ export const FAQ: React.FC = () => {
                 <div className="border-t border-gray-200 px-4 py-5 sm:p-6 space-y-6">
                     <div>
                         <h4 className="text-base font-bold text-gray-900">When and how do I get paid?</h4>
-                        <p className="mt-2 text-gray-500">[Placeholder: Payments are processed weekly via direct deposit. You will receive payment for all hours worked in the previous week every Friday.]</p>
+                        <p className="mt-2 text-gray-500"></p>
                     </div>
                     <div>
                         <h4 className="text-base font-bold text-gray-900">How much does it cost to join?</h4>
-                        <p className="mt-2 text-gray-500">[Placeholder: It is free to join and create a profile. We charge a 10% service fee on top of your hourly rate to the client, so you keep 100% of your asking rate.]</p>
+                        <p className="mt-2 text-gray-500"></p>
                     </div>
                     <div>
                         <h4 className="text-base font-bold text-gray-900">Can I set my own schedule?</h4>
-                        <p className="mt-2 text-gray-500">[Placeholder: Yes! You have full control over your availability and can accept or decline job requests as they fit your schedule.]</p>
+                        <p className="mt-2 text-gray-500"></p>
                     </div>
                 </div>
             </div>
